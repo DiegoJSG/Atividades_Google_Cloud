@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pelagic-range-385415",
+  "private_key_id": "e20e7b32575ea6899d968f255ed6f7a86d8bb301",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCi29WGVTd+nlyJ\nrtLRkYnzlD0MuUdNE4fCed6Z+8zfpn5XLQEN2kZpWCTT0cRag/wBtB5PZPQ7Fjg8\nlBqzTfixm+TLKl94NPpvUh5WU4UF4jMNJ7hZYM2YNtK+oZ9o3nOTjIz1d0zs6SMK\nC9q5IGnW1EjnMLgqNqPmvp0Si73vORVHzk1z0K7WXtx4ElK48Xkz+51EEFWF2368\nPTbWwU5A0YB5ick9gEXX3zII68pUef2aW9qhZSOam4lSDluU97LGpyvSHMpnuuwV\nbeAXq0umk4gkoXB4si0++3c1pGffvw/97OQ0CSK4GbNHzcZw7hrTIU9e+hA2A/ZR\naC7omHq/AgMBAAECggEAQK2U1fZHBVrIPof3QvKNenavbjuxBPvSKVq0HKxjV5ks\nSNvfNMywtQqkCZmf5SDQty588SQTWNoAuJJLLlWzhHn4ufUYmElWAlr3IGqoBEeq\n5bkWHizzSdXQCZRvljruZLVnj97y5o3KdCV0Fpy4W/DQCT0QjvdHTY77G4/y/Sun\n9IcnKic5/B6TCLnq0ADZqRTe6UqDU5bZ2R0T03Q8DWeCZkuOr2wIYRWvbX8a6JCc\nNEXuvMFSQEeXpBEgM1muSW6BVa90EzSIEPmMXvlSzwYwdxh/UyPS9ItykjIlupnd\nvRr20ZSbITeHYRrgthoRuoGkKxuwyOc+p7nFAnxrlQKBgQDh4Lf7WgUPuNAmL1ON\nUQiAhX8m21VW/uSLJfP+ja43BDpyYkkiTmVOR2JQ8dxAIcf/+lvI3+84Fg5ivNiv\nH284V+ighX7LqR1Y0LpDfNf/YBo3lbzWKAJVMpFp0OhMQCxhtjdXrOUFdoAv25qk\nlRqTJ16EWUSp0iCt4l4Z09OUiwKBgQC4k7I4aqa4q5XK0rs+n1pCCs3iCQO7vxIp\nqNE6rh3cYNCEdgpD94XJBoBdrD5/JBbI69jpwv6Sq6Kgu0GzPbioRqLb2ipg0fnl\nV7zRy9rMwt3cWdRYVy1RUxhNJHsJCokr0uwiGESwLzcPvPfoeOK+HG+FmV/FXkGu\nVRksSTvVHQKBgENRggO7VH7XCdIXkMMxP2NuZfLis5B17w85hHp9J0rmS7UDbeB3\nlOG7jKWrL4U9jCnSJ8C6XMVObYMn3Tx0FeWo7X/JyXxRLpnlu12Zu5Y0whuG2PzK\nd8eEhqoOxOzUw2VrtRrAQJFcO+AHhxM+DOmGdjjjkf86zNqF+J2h8BD5AoGAa8v+\ngwpukl3LnufR6XHhob5znXZMUuL1dZUdlRrJX8K/JQ1XU3iFDvGYGJ0W5uQp1nA/\nf86dJQXOdfbHGSqL5ONUC/hvVZpsSvAh25kmEP4h2qYv6OQJGHziLXOH07DuicSm\nmgb4XrlEfBGN65xmOEedLjZ0A23YCDu09vNSWVUCgYALeuqnmd7/q2pZ7LZi7EV+\nDeoEaHWB3tgiywDSEYYIpHWusgEKZStEO0oohZrzMUptYUuFS0bd4sdZAVLr1rri\ndJVgfFcYhw5B/32Ytkv9LOSzO0luZYCy9BZCFtn+JSMEqUlFJFrQUvdJthmZytvD\nIvHf5VSNuhOr1irxi8lC3w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "forum-alura@pelagic-range-385415.iam.gserviceaccount.com",
+  "client_id": "111921131403883809687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/forum-alura%40pelagic-range-385415.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
